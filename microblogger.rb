@@ -9,6 +9,7 @@ require 'certified'
 require 'bitly'
 require 'klout'
 
+
 class MicroBlogger
   attr_reader :client
 
